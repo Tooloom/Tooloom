@@ -1,5 +1,4 @@
-Shall we return again?\n
-README is empty... as my life...
+Shall we return again?
 
 <!---
 Tooloom/Tooloom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
